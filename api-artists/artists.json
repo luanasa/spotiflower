@@ -2,9 +2,9 @@
     "artists": [
       {
         "id": 1,
-        "name": "Foo Fighters",
-        "genre": "Rock",
-        "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+        "name": "Taylor Swift",
+        "genre": "Pop",
+        "urlImg": "https://i.pinimg.com/564x/2d/97/ec/2d97ecc5c546fae1b2c35521b37bfd6f.jpg"
       },
       {
         "id": 2,

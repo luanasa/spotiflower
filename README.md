@@ -12,7 +12,7 @@ Espero que você goste! 🤍
 - CSS
 - JavaScript
 - React
-- -API
+- API
 
 # Deploy ☁️
 https://luanasa.github.io/spotiflower/

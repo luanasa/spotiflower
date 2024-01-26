@@ -12,13 +12,13 @@ const Sidebar = () => {
         <div className="sidebar">
         <nav className="sidebar__navigation">
             <div className="logo">
-                <a href="#result-playlists" alt="">
+                <a href="https://github.com/luanasa/spotiflower" alt="">
                     <img src={logoImg} alt="Logo do Spotify" />
                 </a>
             </div>
                 <ul>
                     <li>
-                        <a href="#result-playlists">
+                        <a href="https://github.com/luanasa/spotiflower">
                             <span className="fa fa-home">
                             <FontAwesomeIcon icon={faHouse} />
                             </span>
@@ -26,7 +26,7 @@ const Sidebar = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="#result-playlists">
+                        <a href="https://github.com/luanasa/spotiflower">
                             <span className="fa fa-search">
                             <FontAwesomeIcon icon={faMagnifyingGlass} />
                             </span>
@@ -58,7 +58,7 @@ const Sidebar = () => {
                 </div>
             </section>
             <div className="cookies">
-                <a href="">Cookies</a>
+                <a href="https://github.com/luanasa/spotiflower">Cookies</a>
             </div>
             <div className="languages">
                 <button className="languages__button">

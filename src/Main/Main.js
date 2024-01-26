@@ -141,7 +141,7 @@ const Main = () => {
                     <div className="grid-container">
                         <div className="artist-card" id="">
                             <div className="card-img">
-                                <img id="artist-img" className="artist-img" />
+                                <img id="artist-img" className="artist-img" alt="" />
                                 <div className="play">
                                     <span className="fa fa-solid fa-play"></span>
                                 </div>

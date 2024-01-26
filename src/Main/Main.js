@@ -31,105 +31,105 @@ const Main = () => {
                             <section className="offer__list-item">
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card1">
-                                        <img src={card1} alt="" />
+                                        <img src={card1} alt="Card de artista" />
                                         <span>Devs cansados</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card2">
-                                        <img src={card2} alt="" />
+                                        <img src={card2} alt="Card de artista" />
                                         <span>Css não quebrou a página</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card3">
-                                        <img src={card3} alt="" />
+                                        <img src={card3} alt="Card de artista" />
                                         <span>No errors</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card4">
-                                        <img src={card4} alt="" />
+                                        <img src={card4} alt="Card de artista" />
                                         <span>Bora codar</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card5">
-                                        <img src={card5} alt="" />
+                                        <img src={card5} alt="Card de artista" />
                                         <span>Como é amigo?</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card6">
-                                        <img src={card6} alt="" />
+                                        <img src={card6} alt="Card de artista" />
                                         <span>Podcasts</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card7">
-                                        <img src={card7} alt="" />
+                                        <img src={card7} alt="Card de artista" />
                                         <span>Como é amigo?</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card8">
-                                        <img src={card8} alt="" />
+                                        <img src={card8} alt="Card de artista" />
                                         <span>No weekends</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card9">
-                                        <img src={card9} alt="" />
+                                        <img src={card9} alt="Card de artista" />
                                         <span>Rodou!!!</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card10">
-                                        <img src={card10} alt="" />
+                                        <img src={card10} alt="Card de artista" />
                                         <span>MPB</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card11">
-                                        <img src={card11} alt="" />
+                                        <img src={card11} alt="Card de artista" />
                                         <span>Rock</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card12">
-                                        <img src={card12} alt="" />
+                                        <img src={card12} alt="Card de artista" />
                                         <span>Hip Hop</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card13">
-                                        <img src={card13} alt="" />
+                                        <img src={card13} alt="Card de artista" />
                                         <span>Indie</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card14">
-                                        <img src={card14} alt="" />
+                                        <img src={card14} alt="Card de artista" />
                                         <span>Relax</span>
                                     </div>
                                 </a>
 
                                 <a href="https://github.com/luanasa/spotiflower" className="cards">
                                     <div className="cards card15">
-                                        <img src={card15} alt="" />
+                                        <img src={card15} alt="Card de artista" />
                                         <span>Música Latina</span>
                                     </div>
                                 </a>

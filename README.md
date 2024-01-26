@@ -15,6 +15,6 @@ Espero que você goste! 🤍
 - API
 
 # Deploy ☁️
-https://luanasa.github.io/spotiflower/
+[https://luanasa.github.io/spotiflower/](https://main--velvety-gelato-63a690.netlify.app/)https://main--velvety-gelato-63a690.netlify.app/
 
 #ImersãoFrontEnd #alura

@@ -7,4 +7,13 @@ As seguintes modificações no projeto foram feitas por mim para deixar mais div
 
 Espero que você goste! 🤍
 
+# Tecnologias Utilizadas 🚀
+- HTML
+- CSS
+- JavaScript
+- React
+
+# Deploy ☁️
+https://luanasa.github.io/spotiflower/
+
 #ImersãoFrontEnd #alura
